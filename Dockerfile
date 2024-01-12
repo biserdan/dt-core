@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="dt-core"
 ARG DESCRIPTION="Provides high-level autonomy and fleet-coordination capabilities"
-ARG MAINTAINER="Andrea F. Daniele (afdaniele@duckietown.com)"
+ARG MAINTAINER="Daniel Biser (daniel.biser@tum.de)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="diamond"
 
